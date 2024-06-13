@@ -19,4 +19,4 @@ describe_pet("Willie")
 describe_pet("Harry", "Hamster")
 
 # Keyword Arguments
-describe_pet(animal_type="cat", pet_name="Whiskers")
+describe_pet("cat", "Whiskers")
